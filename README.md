@@ -1,12 +1,12 @@
 ### Hi there 👋
 
 
-![Stats](https://github-readme-stats.vercel.app/api?username=gzod01&show_icons=true)<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gzod01&langs_count=8&layout=compact)
+![Stats](https://github-readme-stats.vercel.app/api?username=gzod01&show_icons=true&count_private=true)<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gzod01&langs_count=8&layout=compact&count_private=true)
 
 (Stats from CyberGammaGroup):
-![Stats](https://github-readme-stats.vercel.app/api?username=cybergammagroup&show_icons=true)<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cybergammagroup&langs_count=8&layout=compact)
+![Stats](https://github-readme-stats.vercel.app/api?username=cybergammagroup&show_icons=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cybergammagroup&langs_count=8&layout=compact&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 
 
 My site: <a href="http://gzod01.fr">gzod01.fr</a>
