@@ -9,7 +9,7 @@
     srcset="https://github-readme-stats.vercel.app/api?username=gzod01&show_icons=true&count_private=true&theme=default"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=gzod01&show_icons=true&count_private=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gzod01&show_icons=true&count_private=true&theme=dark" />
 </picture>
 
 <!--
