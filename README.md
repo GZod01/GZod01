@@ -1,12 +1,10 @@
 ### Hi there 👋
 
 
-![Stats](https://github-readme-stats.vercel.app/api?username=gzod01&show_icons=true&count_private=true)<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gzod01&langs_count=8&layout=compact&count_private=true)
-
-(Stats from CyberGammaGroup):
-![Stats](https://github-readme-stats.vercel.app/api?username=gzod01&show_icons=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gzod01&langs_count=8&layout=compact&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
+![Stats](https://github-readme-stats.vercel.app/api?username=gzod01&show_icons=true&count_private=true&theme=dark#gh-dark-mode-only)<br>
+![Stats](https://github-readme-stats.vercel.app/api?username=gzod01&show_icons=true&count_private=true&theme=default#gh-light-mode-only)<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gzod01&langs_count=8&layout=compact&count_private=true&theme=dark#gh-dark-mode-only)<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gzod01&langs_count=8&layout=compact&count_private=true&theme=default#gh-light-mode-only)
 
 
 My site: <a href="http://gzod01.fr">gzod01.fr</a>
