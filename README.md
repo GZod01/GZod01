@@ -20,8 +20,8 @@
 My site: <a href="http://gzod01.fr">gzod01.fr</a>
 
 - 🔭 I’m currently working on [my site](https://gzod01.fr), [some video games](https://gzod01.fr/games), <a href="https://github.com/gzod01/Mod-Spaconium">Mod-Spaconium</a> (Minecraft Mod (made with help of <a href="mcreator.net">MCreator</a>)), <a href="https://gzod01.github.io/freebot">FreeBot (Discord Bot)</a>
-- I'm good in **Python**, **JavaScript**, **HTML**, **CSS**, **PHP**, **GDScript**
-- 🌱 I’m currently learning some programming language like **C**, **C++**, **C#**, **Rust (rustc)**, **Java**
+- I'm using languages like **Python**, **JavaScript**, **HTML**, **CSS**, **PHP**, **GDScript**, **C**, **C++**, **C#**, **Rust (rustc)**, **Java**
+- I'm using stuff like **NGINX**, **Docker**, **Hugo**, **DiscordPHP**, **NPM**
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... -->
