@@ -14,6 +14,9 @@ Student at UniLaSalle Amiens.
   <img src="https://github-readme-stats.vercel.app/api?username=gzod01&show_icons=true&count_private=true&theme=dark" />
 </picture>
 
+
+![GZod01's GitHub stats](https://github-readme-stats.vercel.app/api?username=GZod01&show_icons=true&theme=radical)
+
 My site: <a href="http://gzod01.fr">gzod01.fr</a>
 My portfolio: <a href="https://gzod01.fr/portfolio">gzod01.fr/portfolio</a>
 
