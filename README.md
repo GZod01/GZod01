@@ -21,7 +21,7 @@ My portfolio: <a href="https://gzod01.fr/portfolio">gzod01.fr/portfolio</a>
 
 All infos about the languages I use, my current projects, the stuff I use, etc. are in [my portfolio](https://gzod01.fr/portfolio).
 
-Founder of @cybergammagroup see [cybergamma.group](https://cybergamma.group)
+Founder of [@cybergammagroup] see [cybergamma.group](https://cybergamma.group)
 <!--
 
 DEPRECATED INFOS!!! CHECK PORTFOLIO FOR UPDATED INFOS
